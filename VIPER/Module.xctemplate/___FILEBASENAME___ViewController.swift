@@ -17,7 +17,7 @@ protocol ___FILEBASENAMEASIDENTIFIER___ViewOutput: class {
 }
 
 final class ___FILEBASENAMEASIDENTIFIER___ViewController: UIViewController {
-    var presenter: ___FILEBASENAMEASIDENTIFIER___Presenter!
+    var presenter: ___FILEBASENAMEASIDENTIFIER___ViewOutput!
 
     override func viewDidLoad() {
         super.viewDidLoad()
